@@ -64,5 +64,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/X7Z-py/Project-RedWol
 
 ```lua
 -- Paste into your Roblox Executor
-loadstring(game:HttpGet("https://raw.githubusercontent.com/X7Z-py/Project-RedWolf-Command-UI/refs/heads/main/Project%20RedWolf%20Command%20UI"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/X7Z-py/Project-RedWolf/refs/heads/main/RedWolf"))()
 ```
