@@ -22,11 +22,11 @@
 
 ---
 
-## Overview
+## Project RedWolf Command UI
 
-**Project Redwolf** is a modular command system designed for Roblox.
+**Project Redwolf Command UI** is a modular command system designed for Roblox.
 
-> “This is Still in BETA!.”
+> “This is Still in BETA!”
 
 ---
 
@@ -42,9 +42,27 @@
 
 ---
 
-## ⚙️ Installation
+## RedWolf Command UI Script
 
 ```lua
 -- Paste into your Roblox Executor
 loadstring(game:HttpGet("https://raw.githubusercontent.com/X7Z-py/Project-RedWolf-Command-UI/refs/heads/main/Project%20RedWolf%20Command%20UI"))()
+```
 
+## Project RedWolf Main
+
+-  Universal 
+-  Utility Scripts
+-  Useful Scripts
+-  10+ ScriptHubs
+-  All Universal Scripts
+-  Works in all games
+
+**Project Redwolf Main** is a modular Multi-Script system designed for Roblox.
+
+## Project RedWolf Main Script
+
+```lua
+-- Paste into your Roblox Executor
+loadstring(game:HttpGet("https://raw.githubusercontent.com/X7Z-py/Project-RedWolf-Command-UI/refs/heads/main/Project%20RedWolf%20Command%20UI"))()
+```
