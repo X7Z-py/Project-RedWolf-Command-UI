@@ -5,7 +5,7 @@
 <h1 align="center">Project Redwolf</h1>
 
 <p align="center">
-   Roblox command interface inspired by X7Z.
+   Roblox command interface inspired by Visual UI Command.
   <br/>
   <br/>
   <img src="https://img.shields.io/github/stars/YourUsername/YourRepo?style=flat-square" />
