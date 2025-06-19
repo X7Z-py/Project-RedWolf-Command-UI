@@ -13,11 +13,11 @@
   <img src="https://img.shields.io/github/issues/YourUsername/YourRepo?style=flat-square" />
   <img src="https://img.shields.io/github/license/YourUsername/YourRepo?style=flat-square" />
   <br/><br/>
-  <a href="#features">✨ Features</a> • 
-  <a href="#installation">⚙️ Installation</a> • 
-  <a href="#usage">🎮 Usage</a> • 
-  <a href="#screenshots">📸 Screenshots</a> • 
-  <a href="#contribute">🤝 Contribute</a>
+  <a href="#features"> Features</a> • 
+  <a href="#installation">Installation</a> • 
+  <a href="#usage">Usage</a> • 
+  <a href="#screenshots">Screenshots</a> • 
+  <a href="#contribute">Contribute</a>
 </p>
 
 ---
@@ -26,7 +26,7 @@
 
 **Project Redwolf** is a modular command system designed for Roblox.
 
-> “Minimal UI. Maximum Power.”
+> “This is Still in BETA!.”
 
 ---
 
